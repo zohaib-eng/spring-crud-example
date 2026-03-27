@@ -8,6 +8,6 @@ public class BasicCrudExampleApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BasicCrudExampleApplication.class, args);
+		System.out.println("Application started successfully!");
 	}
-
 }
